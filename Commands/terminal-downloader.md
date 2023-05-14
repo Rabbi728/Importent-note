@@ -6,6 +6,9 @@ sudo apt-get install python3 python3-pip ffmpeg atomicparsley
 ```sh
 pip3 install --upgrade yt-dlp
 ```
+```sh
+sudo -H pip install --upgrade youtube-dl
+```
 
 ## Way of Download File using yt-dlp
 
