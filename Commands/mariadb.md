@@ -7,7 +7,7 @@ sudo apt-get install mariadb-server
 ## Login
 
 ```sh
-sudo apt-get install mariadb-server
+sudo mysql -u root
 ```
 
 ## Change Password
