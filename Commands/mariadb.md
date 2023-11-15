@@ -15,3 +15,9 @@ sudo mysql -u root
 ```sh
 ALTER USER 'root'@'localhost' IDENTIFIED BY 'YOURNEWPASSWORD'
 ```
+
+## User Permission
+
+```sh
+grant all on `user_%`.* to `user`@`localhost`;
+```
